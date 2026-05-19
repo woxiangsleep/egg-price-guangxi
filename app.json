@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "广西鸡蛋价",
+    "slug": "egg-price-guangxi",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f7f3ea"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.codex.guangxieggprice"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "priceDataUrl": ""
+    }
+  }
+}

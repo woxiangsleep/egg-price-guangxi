@@ -5,6 +5,7 @@ import { EggPriceRecord, EggSpecQuote, PriceDataset, PriceStatus, PriceViewModel
 
 const CACHE_KEY = "guangxi-egg-price-dataset-v3";
 const DEFAULT_REMOTE_PATH = "/data/prices.json";
+const DEFAULT_REMOTE_DATA_URL = "https://raw.githubusercontent.com/woxiangsleep/egg-price-guangxi/main/docs/data/prices.json";
 
 const TEXT = {
   guangxi: "\u5e7f\u897f",
@@ -93,7 +94,7 @@ function getRemoteDataUrl() {
     return `${window.location.origin}${DEFAULT_REMOTE_PATH}`;
   }
 
-  return "";
+  return DEFAULT_REMOTE_DATA_URL;
 }
 
 async function readCachedDataset() {

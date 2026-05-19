@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T15:05:17.645Z",
+  "generatedAt": "2026-05-19T15:41:55.443Z",
   "preferredMarket": "公众号规格报价",
   "primarySourceName": "鸡蛋报价早知道",
   "packageSpec": "标准箱360枚装，皮重4.8-5.0斤，菜花黄精品蛋托，全新包装。",
@@ -7,7 +7,7 @@
   "sourceStatuses": [
     {
       "name": "鸡蛋报价早知道",
-      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
       "parsedRows": 11,
       "status": "parsed",
       "query": "5月19日广西鸡蛋价格",
@@ -25,8 +25,8 @@
       "avgPrice": 208,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-04-21",
@@ -38,8 +38,8 @@
       "avgPrice": 207,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-04-22",
@@ -51,8 +51,8 @@
       "avgPrice": 209,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-04-23",
@@ -64,8 +64,8 @@
       "avgPrice": 211,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-04-24",
@@ -77,8 +77,8 @@
       "avgPrice": 212,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-04-25",
@@ -90,8 +90,8 @@
       "avgPrice": 214,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-04-26",
@@ -103,8 +103,8 @@
       "avgPrice": 216,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-04-27",
@@ -116,8 +116,8 @@
       "avgPrice": 217,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-04-28",
@@ -129,8 +129,8 @@
       "avgPrice": 216,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-04-29",
@@ -142,8 +142,8 @@
       "avgPrice": 218,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-04-30",
@@ -155,8 +155,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-01",
@@ -168,8 +168,8 @@
       "avgPrice": 220,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-02",
@@ -181,8 +181,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-03",
@@ -194,8 +194,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-04",
@@ -207,8 +207,8 @@
       "avgPrice": 218,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-05",
@@ -220,8 +220,8 @@
       "avgPrice": 217,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-06",
@@ -233,8 +233,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-07",
@@ -246,8 +246,8 @@
       "avgPrice": 220,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-08",
@@ -259,8 +259,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-09",
@@ -272,8 +272,8 @@
       "avgPrice": 222,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-10",
@@ -285,8 +285,8 @@
       "avgPrice": 223,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-11",
@@ -298,8 +298,8 @@
       "avgPrice": 224,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-12",
@@ -311,8 +311,8 @@
       "avgPrice": 222,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-13",
@@ -324,8 +324,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-14",
@@ -337,8 +337,8 @@
       "avgPrice": 220,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-15",
@@ -350,8 +350,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-16",
@@ -363,8 +363,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-17",
@@ -376,8 +376,8 @@
       "avgPrice": 222,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-18",
@@ -389,8 +389,8 @@
       "avgPrice": 224,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "date": "2026-05-19",
@@ -402,8 +402,8 @@
       "avgPrice": 231,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     }
   ],
   "specQuotes": [
@@ -420,8 +420,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "大码",
@@ -436,8 +436,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "中码",
@@ -452,8 +452,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "中码",
@@ -468,8 +468,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "中码",
@@ -484,8 +484,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "小码",
@@ -500,8 +500,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "小码",
@@ -516,8 +516,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "小码",
@@ -532,8 +532,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "初产",
@@ -548,8 +548,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "初产",
@@ -564,8 +564,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "初产",
@@ -580,8 +580,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     }
   ],
   "primarySpecQuotes": [
@@ -598,8 +598,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "大码",
@@ -614,8 +614,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "中码",
@@ -630,8 +630,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "中码",
@@ -646,8 +646,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "中码",
@@ -662,8 +662,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "小码",
@@ -678,8 +678,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "小码",
@@ -694,8 +694,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "小码",
@@ -710,8 +710,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "初产",
@@ -726,8 +726,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "初产",
@@ -742,8 +742,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     },
     {
       "spec": "初产",
@@ -758,8 +758,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779203119&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBg7LSa*Q3VJN7g9bbXsivgPN0nf*Gctc4pmafXlwuT7sL-FUufKOTD9Gk6CExcR1I&new=1",
-      "fetchedAt": "2026-05-19T15:05:17.645Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779205319&ver=6730&signature=izh60TZrdzf1xZ*tFHcjq2ihow8*xXD7CjKUx-gm0cZu-XaAiMWqWf-bOmAti0pBJ77*UL5HXJiTota9yqsKzxciNcmoSYQG8sSSMQtRuHgsm3F*lS6poRZF43vVKUF*&new=1",
+      "fetchedAt": "2026-05-19T15:41:55.443Z"
     }
   ]
 }

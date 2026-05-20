@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T14:11:29.650Z",
+  "generatedAt": "2026-05-20T14:14:45.163Z",
   "preferredMarket": "公众号规格报价",
   "primarySourceName": "鸡蛋报价早知道",
   "packageSpec": "标准箱360枚装，皮重4.8-5.0斤，菜花黄精品蛋托，全新包装。",
@@ -7,8 +7,8 @@
   "sourceStatuses": [
     {
       "name": "鸡蛋报价早知道",
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "parsedRows": 11,
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "parsedRows": 3,
       "status": "parsed",
       "query": "5月20日广西鸡蛋价格",
       "title": "跌:5月20日广西鸡蛋价格参考"
@@ -25,8 +25,8 @@
       "avgPrice": 208,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-04-22",
@@ -38,8 +38,8 @@
       "avgPrice": 207,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-04-23",
@@ -51,8 +51,8 @@
       "avgPrice": 209,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-04-24",
@@ -64,8 +64,8 @@
       "avgPrice": 211,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-04-25",
@@ -77,8 +77,8 @@
       "avgPrice": 212,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-04-26",
@@ -90,8 +90,8 @@
       "avgPrice": 214,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-04-27",
@@ -103,8 +103,8 @@
       "avgPrice": 216,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-04-28",
@@ -116,8 +116,8 @@
       "avgPrice": 217,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-04-29",
@@ -129,8 +129,8 @@
       "avgPrice": 216,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-04-30",
@@ -142,8 +142,8 @@
       "avgPrice": 218,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-01",
@@ -155,8 +155,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-02",
@@ -168,8 +168,8 @@
       "avgPrice": 220,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-03",
@@ -181,8 +181,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-04",
@@ -194,8 +194,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-05",
@@ -207,8 +207,8 @@
       "avgPrice": 218,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-06",
@@ -220,8 +220,8 @@
       "avgPrice": 217,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-07",
@@ -233,8 +233,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-08",
@@ -246,8 +246,8 @@
       "avgPrice": 220,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-09",
@@ -259,8 +259,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-10",
@@ -272,8 +272,8 @@
       "avgPrice": 222,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-11",
@@ -285,8 +285,8 @@
       "avgPrice": 223,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-12",
@@ -298,8 +298,8 @@
       "avgPrice": 224,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-13",
@@ -311,8 +311,8 @@
       "avgPrice": 222,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-14",
@@ -324,8 +324,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-15",
@@ -337,8 +337,8 @@
       "avgPrice": 220,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-16",
@@ -350,8 +350,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-17",
@@ -363,8 +363,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-18",
@@ -376,8 +376,8 @@
       "avgPrice": 222,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-19",
@@ -389,8 +389,8 @@
       "avgPrice": 224,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "date": "2026-05-20",
@@ -402,8 +402,8 @@
       "avgPrice": 223,
       "unit": "元/箱",
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     }
   ],
   "specQuotes": [
@@ -420,8 +420,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "spec": "大码",
@@ -436,8 +436,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "spec": "中码",
@@ -452,136 +452,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "中码",
-      "weight": "46-47斤",
-      "packagePriceMin": 209,
-      "packagePriceMax": 219,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "中码",
-      "weight": "44-45斤",
-      "packagePriceMin": 206,
-      "packagePriceMax": 216,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "小码",
-      "weight": "42-43斤",
-      "packagePriceMin": 203,
-      "packagePriceMax": 213,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "小码",
-      "weight": "40-41斤",
-      "packagePriceMin": 200,
-      "packagePriceMax": 210,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "小码",
-      "weight": "38-39斤",
-      "packagePriceMin": 196,
-      "packagePriceMax": 206,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "初产",
-      "weight": "36-37斤",
-      "packagePriceMin": 192,
-      "packagePriceMax": 202,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "初产",
-      "weight": "33-35斤",
-      "packagePriceMin": 188,
-      "packagePriceMax": 198,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "初产",
-      "weight": "33斤以下",
-      "packagePriceMin": 184,
-      "packagePriceMax": 194,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     }
   ],
   "primarySpecQuotes": [
@@ -598,8 +470,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "spec": "大码",
@@ -614,8 +486,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     },
     {
       "spec": "中码",
@@ -630,136 +502,8 @@
       ],
       "isAverage": false,
       "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "中码",
-      "weight": "46-47斤",
-      "packagePriceMin": 209,
-      "packagePriceMax": 219,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "中码",
-      "weight": "44-45斤",
-      "packagePriceMin": 206,
-      "packagePriceMax": 216,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "小码",
-      "weight": "42-43斤",
-      "packagePriceMin": 203,
-      "packagePriceMax": 213,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "小码",
-      "weight": "40-41斤",
-      "packagePriceMin": 200,
-      "packagePriceMax": 210,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "小码",
-      "weight": "38-39斤",
-      "packagePriceMin": 196,
-      "packagePriceMax": 206,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "初产",
-      "weight": "36-37斤",
-      "packagePriceMin": 192,
-      "packagePriceMax": 202,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "初产",
-      "weight": "33-35斤",
-      "packagePriceMin": 188,
-      "packagePriceMax": 198,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
-    },
-    {
-      "spec": "初产",
-      "weight": "33斤以下",
-      "packagePriceMin": 184,
-      "packagePriceMax": 194,
-      "trend": "-8",
-      "date": "2026-05-20",
-      "sourceCount": 1,
-      "sourceNames": [
-        "鸡蛋报价早知道"
-      ],
-      "isAverage": false,
-      "sourceName": "鸡蛋报价早知道",
-      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJjjhVUNMeDKvimhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54Td_wLlOkWVaaqc4EOLEFEWa9f_uKsr8eDZ4P8_7TUbt2h-DqIIar9O0-hVea99uK7XT4-p90skBBVM19dWOcd2FW6cwuUnkdA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C595CCAC7C9AB25CEAECB9AAB4BCA953EBD482296A0DC113",
-      "fetchedAt": "2026-05-20T14:11:29.650Z"
+      "sourceUrl": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3bQ8kIDrXJj5TuKnvMyb4-mhDflFCDZi1qXa8Fplpd9h7sRp41AxzLXFR2hTTnF3lG7Pd-kW58AEB1J_0M970wq0MNh90cvnquqSZSoFhFsGrNz7guVKuO-f2Kyneb54dzOLCxdOKSXOmN71zHMC24In30AKFN4Os4ezzMh1PzQyZAEAe1pOHX1gvkvxY6OJtMt-L2XWguD9XcC0u_L39JS6t2rFt2rnA..&type=2&query=5%E6%9C%8820%E6%97%A5%E5%B9%BF%E8%A5%BF%E9%B8%A1%E8%9B%8B%E4%BB%B7%E6%A0%BC&token=C59A477FED9B799EAEA8FCEEC5A14036AF2D20CB6A0DC1D7",
+      "fetchedAt": "2026-05-20T14:14:45.163Z"
     }
   ]
 }

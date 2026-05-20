@@ -47,10 +47,12 @@ async function main() {
     const article = await findSogouArticle(page, query);
     const date = parseDate(article.text) || todayInChina();
     let specQuotes = parseStandardRows(article.text);
+    console.log(`Snippet rows: ${specQuotes.length}`);
 
-    if (specQuotes.length < WEIGHT_ORDER.length && article.url) {
-      const articleText = await openArticleText(page, article.url);
+    if (specQuotes.length < WEIGHT_ORDER.length) {
+      const articleText = await openArticleText(page, article);
       const articleRows = parseStandardRows(articleText);
+      console.log(`Article rows: ${articleRows.length}`);
       if (articleRows.length > specQuotes.length) {
         specQuotes = articleRows;
       }
@@ -67,9 +69,7 @@ async function main() {
       fetchedAt
     }));
 
-    if (specQuotes.length === 0) {
-      throw new Error(`No quote rows parsed from Sogou result: ${article.title}`);
-    }
+    assertCompleteRows(specQuotes, article.title);
 
     const dataset = {
       generatedAt: fetchedAt,
@@ -113,14 +113,15 @@ async function findSogouArticle(page, query) {
   });
   await page.waitForTimeout(3000);
 
-  const candidates = await page.locator("li").evaluateAll((items) =>
-    items
-      .map((item) => {
-        const link = item.querySelector("a[uigs^='article_title_']");
+  const candidates = await page.locator("a[uigs^='article_title_']").evaluateAll((links) =>
+    links
+      .map((link, index) => {
+        const item = link.closest("li") || link.parentElement;
         return {
+          index,
           title: link?.textContent?.trim() || "",
           url: link?.href || "",
-          text: item.innerText || ""
+          text: item?.innerText || ""
         };
       })
       .filter((item) => item.title && item.text)
@@ -143,22 +144,46 @@ async function findSogouArticle(page, query) {
 
 function isTargetResult(item, monthDay, currentYear) {
   const text = normalizeText(item.text);
+  const wrongYear = text.match(new RegExp(`(20\\d{2})\\s*年\\s*${monthDay}`));
   return (
     text.includes(SOURCE_NAME) &&
     text.includes(monthDay) &&
-    !text.includes(`${Number(currentYear) - 2}\u5e74${monthDay}`) &&
-    !text.includes(`${Number(currentYear) - 1}\u5e74${monthDay}`)
+    (!wrongYear || wrongYear[1] === currentYear)
   );
 }
 
-async function openArticleText(page, url) {
-  await page.goto(url, { waitUntil: "domcontentloaded", timeout: 30000 });
-  await page.waitForTimeout(3000);
-  const html = await page.content();
-  if (page.url().includes("antispider") || html.includes("\u9a8c\u8bc1\u7801")) {
-    throw new Error("Sogou anti-spider page was returned.");
+async function openArticleText(page, article) {
+  const links = page.locator("a[uigs^='article_title_']");
+  const link = links.nth(article.index);
+  const popupPromise = page.waitForEvent("popup", { timeout: 12000 }).catch(() => null);
+  await link.click({ timeout: 12000 });
+  const articlePage = (await popupPromise) || page;
+  await articlePage.waitForLoadState("domcontentloaded", { timeout: 30000 }).catch(() => {});
+  await articlePage.waitForTimeout(5000);
+
+  const html = await articlePage.content();
+  if (articlePage.url().includes("antispider") || html.includes("\u9a8c\u8bc1\u7801")) {
+    throw new Error("Sogou anti-spider page was returned while opening the article.");
   }
-  return htmlToText(html);
+  const text = await articlePage
+    .locator("#js_content")
+    .innerText({ timeout: 5000 })
+    .catch(async () => htmlToText(html));
+  article.url = articlePage.url() || article.url;
+  return text;
+}
+
+function assertCompleteRows(rows, title) {
+  const weights = rows.map((row) => row.weight);
+  const missing = WEIGHT_ORDER.filter((weight) => !weights.includes(weight));
+  const extra = weights.filter((weight) => !WEIGHT_ORDER.includes(weight));
+  if (rows.length !== WEIGHT_ORDER.length || missing.length > 0 || extra.length > 0) {
+    throw new Error(
+      `Incomplete quote rows for ${title}. Parsed ${rows.length}/${WEIGHT_ORDER.length}. Missing: ${
+        missing.join(", ") || "none"
+      }. Extra: ${extra.join(", ") || "none"}`
+    );
+  }
 }
 
 function parseStandardRows(text) {

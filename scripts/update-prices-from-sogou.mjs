@@ -43,9 +43,12 @@ async function main() {
       userAgent:
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     });
-    const query = todaySearchQuery();
+    const today = todayInChina();
+    const query = searchQueryForDate(today);
+    assertSearchQueryForToday(query, today);
     const article = await findSogouArticle(page, query);
-    const date = parseDate(article.text) || todayInChina();
+    const date = parseDate(article.text);
+    assertArticleDateForToday(date, today, article.title);
     let specQuotes = parseStandardRows(article.text);
     console.log(`Snippet rows: ${specQuotes.length}`);
 
@@ -128,15 +131,12 @@ async function findSogouArticle(page, query) {
   );
 
   const today = todayInChina();
-  const monthDay = today.slice(5, 7).replace(/^0/, "") + "\u6708" + today.slice(8, 10).replace(/^0/, "") + "\u65e5";
+  const monthDay = monthDayFromDate(today);
   const currentYear = today.slice(0, 4);
-  const selected =
-    candidates.find((item) => isTargetResult(item, monthDay, currentYear)) ||
-    candidates.find((item) => item.text.includes(SOURCE_NAME) && item.text.includes(monthDay)) ||
-    candidates[0];
+  const selected = candidates.find((item) => isTargetResult(item, monthDay, currentYear));
 
   if (!selected) {
-    throw new Error(`No Sogou article results for query: ${query}`);
+    throw new Error(`No article from ${SOURCE_NAME} matched today's query (${query}).`);
   }
 
   return selected;
@@ -332,13 +332,28 @@ function parseDate(text) {
   return `${new Date().getFullYear()}-${String(match[1]).padStart(2, "0")}-${String(match[2]).padStart(2, "0")}`;
 }
 
-function todaySearchQuery() {
-  const formatter = new Intl.DateTimeFormat("zh-CN", {
-    timeZone: "Asia/Shanghai",
-    month: "numeric",
-    day: "numeric"
-  });
-  return `${formatter.format(new Date()).replace("/", "\u6708")}\u65e5\u5e7f\u897f\u9e21\u86cb\u4ef7\u683c`;
+function searchQueryForDate(date) {
+  return `${monthDayFromDate(date)}\u5e7f\u897f\u9e21\u86cb\u4ef7\u683c`;
+}
+
+function assertSearchQueryForToday(query, today) {
+  const expected = searchQueryForDate(today);
+  if (query !== expected) {
+    throw new Error(`Search query must use today's China date. Expected ${expected}, got ${query}.`);
+  }
+}
+
+function assertArticleDateForToday(date, today, title) {
+  if (!date) {
+    throw new Error(`Article date could not be parsed from ${title}.`);
+  }
+  if (date !== today) {
+    throw new Error(`Article date must be today's China date. Expected ${today}, got ${date}: ${title}`);
+  }
+}
+
+function monthDayFromDate(date) {
+  return `${Number(date.slice(5, 7))}\u6708${Number(date.slice(8, 10))}\u65e5`;
 }
 
 function todayInChina() {

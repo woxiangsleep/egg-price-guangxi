@@ -3,33 +3,30 @@ import { existsSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { chromium } from "playwright";
 
-const OUTPUT_PATHS = [
-  resolve("public/data/prices.json"),
-  resolve("docs/data/prices.json")
-];
+const OUTPUT_PATHS = [resolve("public/data/prices.json"), resolve("docs/data/prices.json")];
 
-const SOURCE_NAME = "鸡蛋报价早知道";
+const SOURCE_NAME = "\u9e21\u86cb\u62a5\u4ef7\u65e9\u77e5\u9053";
 const LOCAL_EDGE_PATH = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe";
 const TEXT = {
-  guangxi: "广西",
-  egg: "鸡蛋",
-  market: "公众号规格报价",
-  packageSpec: "标准箱360枚装，皮重4.8-5.0斤，菜花黄精品蛋托，全新包装。",
-  disclaimer: "报价仅供参考，不作为任何买卖的任何交易依据。"
+  guangxi: "\u5e7f\u897f",
+  egg: "\u9e21\u86cb",
+  market: "\u516c\u4f17\u53f7\u89c4\u683c\u62a5\u4ef7",
+  packageSpec: "\u6807\u51c6\u7bb1360\u679a\u88c5\uff0c\u76ae\u91cd4.8-5.0\u65a4\uff0c\u83dc\u82b1\u9ec4\u7cbe\u54c1\u86cb\u6258\uff0c\u5168\u65b0\u5305\u88c5\u3002",
+  disclaimer: "\u62a5\u4ef7\u4ec5\u4f9b\u53c2\u8003\uff0c\u4e0d\u4f5c\u4e3a\u4efb\u4f55\u4e70\u5356\u7684\u4efb\u4f55\u4ea4\u6613\u4f9d\u636e\u3002"
 };
 
 const WEIGHT_ORDER = [
-  "52-53斤",
-  "50-51斤",
-  "48-49斤",
-  "46-47斤",
-  "44-45斤",
-  "42-43斤",
-  "40-41斤",
-  "38-39斤",
-  "36-37斤",
-  "33-35斤",
-  "33斤以下"
+  "52-53\u65a4",
+  "50-51\u65a4",
+  "48-49\u65a4",
+  "46-47\u65a4",
+  "44-45\u65a4",
+  "42-43\u65a4",
+  "40-41\u65a4",
+  "38-39\u65a4",
+  "36-37\u65a4",
+  "33-35\u65a4",
+  "33\u65a4\u4ee5\u4e0b"
 ];
 
 async function main() {
@@ -47,22 +44,31 @@ async function main() {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     });
     const query = todaySearchQuery();
-    const article = await openFirstSogouArticle(page, query);
-    const text = htmlToText(article.html);
-    const date = parseDate(article.title) || parseDate(text) || todayInChina();
-    const specQuotes = parseStandardRows(text).map((row) => ({
+    const article = await findSogouArticle(page, query);
+    const date = parseDate(article.text) || todayInChina();
+    let specQuotes = parseStandardRows(article.text);
+
+    if (specQuotes.length < WEIGHT_ORDER.length && article.url) {
+      const articleText = await openArticleText(page, article.url);
+      const articleRows = parseStandardRows(articleText);
+      if (articleRows.length > specQuotes.length) {
+        specQuotes = articleRows;
+      }
+    }
+
+    specQuotes = specQuotes.map((row) => ({
       ...row,
       date,
       sourceCount: 1,
       sourceNames: [SOURCE_NAME],
       isAverage: false,
       sourceName: SOURCE_NAME,
-      sourceUrl: article.url,
+      sourceUrl: article.url || "https://weixin.sogou.com/",
       fetchedAt
     }));
 
     if (specQuotes.length === 0) {
-      throw new Error(`No quote rows parsed from article: ${article.title}`);
+      throw new Error(`No quote rows parsed from Sogou result: ${article.title}`);
     }
 
     const dataset = {
@@ -100,40 +106,66 @@ async function main() {
   }
 }
 
-async function openFirstSogouArticle(page, query) {
-  await page.goto("https://weixin.sogou.com/", {
+async function findSogouArticle(page, query) {
+  await page.goto(`https://weixin.sogou.com/weixin?type=2&query=${encodeURIComponent(query)}`, {
     waitUntil: "domcontentloaded",
     timeout: 30000
   });
-  await page.locator('input[name="query"]').fill(query);
-  await page.locator('input[type="submit"], .swz').first().click();
-  await page.waitForLoadState("domcontentloaded", { timeout: 30000 });
+  await page.waitForTimeout(3000);
 
-  const firstResult = page.locator("a[uigs^='article_title_']").first();
-  const title = (await firstResult.innerText({ timeout: 15000 })).trim();
-  const popupPromise = page.waitForEvent("popup", { timeout: 10000 }).catch(() => null);
-  await firstResult.click();
-  const articlePage = (await popupPromise) || page;
-  await articlePage.waitForLoadState("domcontentloaded", { timeout: 30000 }).catch(() => {});
-  await articlePage.waitForTimeout(3000);
+  const candidates = await page.locator("li").evaluateAll((items) =>
+    items
+      .map((item) => {
+        const link = item.querySelector("a[uigs^='article_title_']");
+        return {
+          title: link?.textContent?.trim() || "",
+          url: link?.href || "",
+          text: item.innerText || ""
+        };
+      })
+      .filter((item) => item.title && item.text)
+  );
 
-  const html = await articlePage.content();
-  const url = articlePage.url();
-  if (url.includes("antispider") || html.includes("验证码")) {
+  const today = todayInChina();
+  const monthDay = today.slice(5, 7).replace(/^0/, "") + "\u6708" + today.slice(8, 10).replace(/^0/, "") + "\u65e5";
+  const currentYear = today.slice(0, 4);
+  const selected =
+    candidates.find((item) => isTargetResult(item, monthDay, currentYear)) ||
+    candidates.find((item) => item.text.includes(SOURCE_NAME) && item.text.includes(monthDay)) ||
+    candidates[0];
+
+  if (!selected) {
+    throw new Error(`No Sogou article results for query: ${query}`);
+  }
+
+  return selected;
+}
+
+function isTargetResult(item, monthDay, currentYear) {
+  const text = normalizeText(item.text);
+  return (
+    text.includes(SOURCE_NAME) &&
+    text.includes(monthDay) &&
+    !text.includes(`${Number(currentYear) - 2}\u5e74${monthDay}`) &&
+    !text.includes(`${Number(currentYear) - 1}\u5e74${monthDay}`)
+  );
+}
+
+async function openArticleText(page, url) {
+  await page.goto(url, { waitUntil: "domcontentloaded", timeout: 30000 });
+  await page.waitForTimeout(3000);
+  const html = await page.content();
+  if (page.url().includes("antispider") || html.includes("\u9a8c\u8bc1\u7801")) {
     throw new Error("Sogou anti-spider page was returned.");
   }
-  if (!url.includes("mp.weixin.qq.com") && !html.includes("js_article")) {
-    throw new Error(`First result did not open a WeChat article: ${url}`);
-  }
-
-  return { title, url, html };
+  return htmlToText(html);
 }
 
 function parseStandardRows(text) {
   const rows = [];
-  const compactText = normalizeSplitDigits(text);
+  const compactText = normalizeSplitDigits(normalizeText(text));
   const pattern =
-    /(大码|中码|小码|初产)\s*(\d{2})\s*(?:[-—–~至到]\s*(\d{2}))?\s*斤\s*(以下)?\s*(\d{3})\s*(?:[-—–~至到]\s*(\d{3}))\s*([+\-−涨跌升降稳↑↓0-9.%]*)/g;
+    /(\u5927\u7801|\u4e2d\u7801|\u5c0f\u7801|\u521d\u4ea7)\s*(\d{2})\s*(?:[-\u2014\u2013~\u81f3\u5230]\s*(\d{2}))?\s*\u65a4\s*(\u4ee5\u4e0b)?\s*(\d{3})\s*(?:[-\u2014\u2013~\u81f3\u5230]\s*(\d{3}))\s*([\u2191\u2193+\-\u6da8\u8dcc\u5347\u964d\u7a330-9.%]*)/g;
 
   for (const match of compactText.matchAll(pattern)) {
     const [, spec, firstWeight, secondWeight, below, min, max, trendRaw] = match;
@@ -155,37 +187,37 @@ function parseStandardRows(text) {
 
 function normalizeWeight(firstWeight, secondWeight, below) {
   if (below) {
-    return `${firstWeight}斤以下`;
+    return `${firstWeight}\u65a4\u4ee5\u4e0b`;
   }
   if (secondWeight) {
-    const normalized = `${firstWeight}-${secondWeight}斤`;
-    return normalized === "34-35斤" ? "33-35斤" : normalized;
+    const normalized = `${firstWeight}-${secondWeight}\u65a4`;
+    return normalized === "34-35\u65a4" ? "33-35\u65a4" : normalized;
   }
   return normalizeSingleWeight(Number(firstWeight));
 }
 
 function normalizeSingleWeight(weight) {
-  if (weight >= 52) return "52-53斤";
-  if (weight >= 50) return "50-51斤";
-  if (weight >= 48) return "48-49斤";
-  if (weight >= 46) return "46-47斤";
-  if (weight >= 44) return "44-45斤";
-  if (weight >= 42) return "42-43斤";
-  if (weight >= 40) return "40-41斤";
-  if (weight >= 38) return "38-39斤";
-  if (weight >= 36) return "36-37斤";
-  if (weight >= 33) return "33-35斤";
-  return "33斤以下";
+  if (weight >= 52) return "52-53\u65a4";
+  if (weight >= 50) return "50-51\u65a4";
+  if (weight >= 48) return "48-49\u65a4";
+  if (weight >= 46) return "46-47\u65a4";
+  if (weight >= 44) return "44-45\u65a4";
+  if (weight >= 42) return "42-43\u65a4";
+  if (weight >= 40) return "40-41\u65a4";
+  if (weight >= 38) return "38-39\u65a4";
+  if (weight >= 36) return "36-37\u65a4";
+  if (weight >= 33) return "33-35\u65a4";
+  return "33\u65a4\u4ee5\u4e0b";
 }
 
 function normalizeTrend(value) {
   const raw = String(value || "").trim();
-  if (!raw || raw === "-" || raw === "稳") return "0.00%";
-  if (raw.includes("跌") || raw.includes("↓") || raw.includes("−")) {
+  if (!raw || raw === "-" || raw === "\u7a33") return "0.00%";
+  if (raw.includes("\u8dcc") || raw.includes("\u2193") || raw.includes("-")) {
     const number = raw.match(/\d+(?:\.\d+)?/)?.[0];
     return number ? `-${number}` : "-";
   }
-  if (raw.includes("涨") || raw.includes("升") || raw.includes("↑")) {
+  if (raw.includes("\u6da8") || raw.includes("\u5347") || raw.includes("\u2191") || raw.includes("+")) {
     const number = raw.match(/\d+(?:\.\d+)?/)?.[0];
     return number ? `+${number}` : "+";
   }
@@ -211,9 +243,8 @@ function weightIndex(weight) {
 function buildReferenceRecords(date, specQuotes, fetchedAt) {
   const latest = midpoint(specQuotes[0].packagePriceMin, specQuotes[0].packagePriceMax);
   const base = [
-    208, 207, 209, 211, 212, 214, 216, 217, 216, 218,
-    219, 220, 221, 219, 218, 217, 219, 220, 221, 222,
-    223, 224, 222, 221, 220, 219, 221, 222, 224
+    208, 207, 209, 211, 212, 214, 216, 217, 216, 218, 219, 220, 221, 219, 218, 217, 219, 220, 221, 222, 223,
+    224, 222, 221, 220, 219, 221, 222, 224
   ];
   const values = [...base, latest];
 
@@ -228,7 +259,7 @@ function buildReferenceRecords(date, specQuotes, fetchedAt) {
       minPrice: Number((avgPrice - 5).toFixed(2)),
       maxPrice: Number((avgPrice + 5).toFixed(2)),
       avgPrice,
-      unit: "元/箱",
+      unit: "\u5143/\u7bb1",
       sourceName: SOURCE_NAME,
       sourceUrl: specQuotes[0].sourceUrl,
       fetchedAt
@@ -249,20 +280,24 @@ function htmlToText(html) {
     .trim();
 }
 
+function normalizeText(text) {
+  return String(text || "").replace(/\s+/g, " ").trim();
+}
+
 function normalizeSplitDigits(text) {
   let next = text;
   let previous = "";
   while (next !== previous) {
     previous = next;
-    next = next.replace(/(\d)\s+(\d)(?=\s*斤)/g, "$1$2");
+    next = next.replace(/(\d)\s+(\d)(?=\s*\u65a4)/g, "$1$2");
   }
   return next;
 }
 
 function parseDate(text) {
   const match =
-    text.match(/(20\d{2})\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日?/) ||
-    text.match(/(\d{1,2})\s*月\s*(\d{1,2})\s*日?/);
+    text.match(/(20\d{2})\s*\u5e74\s*(\d{1,2})\s*\u6708\s*(\d{1,2})\s*\u65e5/) ||
+    text.match(/(\d{1,2})\s*\u6708\s*(\d{1,2})\s*\u65e5/);
   if (!match) {
     return null;
   }
@@ -278,7 +313,7 @@ function todaySearchQuery() {
     month: "numeric",
     day: "numeric"
   });
-  return `${formatter.format(new Date()).replace("/", "月")}日广西鸡蛋价格`;
+  return `${formatter.format(new Date()).replace("/", "\u6708")}\u65e5\u5e7f\u897f\u9e21\u86cb\u4ef7\u683c`;
 }
 
 function todayInChina() {

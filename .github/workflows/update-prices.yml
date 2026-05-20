@@ -3,8 +3,8 @@ name: Update egg prices
 on:
   workflow_dispatch:
   schedule:
-    # 14:00 Asia/Shanghai.
-    - cron: "0 6 * * *"
+    # 12:00 Asia/Shanghai.
+    - cron: "0 4 * * *"
 
 permissions:
   contents: write

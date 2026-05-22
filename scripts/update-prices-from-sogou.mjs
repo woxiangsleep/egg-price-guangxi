@@ -5,7 +5,7 @@ import { chromium } from "playwright";
 
 const OUTPUT_PATHS = [resolve("public/data/prices.json"), resolve("docs/data/prices.json")];
 
-const SOURCE_NAME = "\u9e21\u86cb\u62a5\u4ef7\u65e9\u77e5\u9053";
+const PRIMARY_SOURCE_NAME = "\u9e21\u86cb\u62a5\u4ef7\u65e9\u77e5\u9053";
 const LOCAL_EDGE_PATH = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe";
 const TEXT = {
   guangxi: "\u5e7f\u897f",
@@ -28,6 +28,7 @@ const WEIGHT_ORDER = [
   "33-35\u65a4",
   "33\u65a4\u4ee5\u4e0b"
 ];
+const REQUIRED_WEIGHT_ORDER = WEIGHT_ORDER.filter((weight) => weight !== "33\u65a4\u4ee5\u4e0b");
 
 async function main() {
   const fetchedAt = new Date().toISOString();
@@ -46,28 +47,17 @@ async function main() {
     const today = todayInChina();
     const query = searchQueryForDate(today);
     assertSearchQueryForToday(query, today);
-    const article = await findSogouArticle(page, query);
-    const date = parseDate(article.text);
-    assertArticleDateForToday(date, today, article.title);
-    let specQuotes = parseStandardRows(article.text);
-    console.log(`Snippet rows: ${specQuotes.length}`);
-
-    if (specQuotes.length < WEIGHT_ORDER.length) {
-      const articleText = await openArticleText(page, article);
-      const articleRows = parseStandardRows(articleText);
-      console.log(`Article rows: ${articleRows.length}`);
-      if (articleRows.length > specQuotes.length) {
-        specQuotes = articleRows;
-      }
-    }
+    const selected = await findSogouArticleWithRows(page, query, today);
+    const { article, date, sourceName } = selected;
+    let specQuotes = selected.specQuotes;
 
     specQuotes = specQuotes.map((row) => ({
       ...row,
       date,
       sourceCount: 1,
-      sourceNames: [SOURCE_NAME],
+      sourceNames: [sourceName],
       isAverage: false,
-      sourceName: SOURCE_NAME,
+      sourceName,
       sourceUrl: article.url || "https://weixin.sogou.com/",
       fetchedAt
     }));
@@ -77,20 +67,21 @@ async function main() {
     const dataset = {
       generatedAt: fetchedAt,
       preferredMarket: TEXT.market,
-      primarySourceName: SOURCE_NAME,
+      primarySourceName: sourceName,
       packageSpec: TEXT.packageSpec,
       disclaimer: TEXT.disclaimer,
       sourceStatuses: [
         {
-          name: SOURCE_NAME,
+          name: sourceName,
           url: article.url,
           parsedRows: specQuotes.length,
           status: "parsed",
           query,
-          title: article.title
+          title: article.title,
+          resultIndex: article.index + 1
         }
       ],
-      records: buildReferenceRecords(date, specQuotes, fetchedAt),
+      records: buildReferenceRecords(date, specQuotes, fetchedAt, sourceName),
       specQuotes,
       primarySpecQuotes: specQuotes
     };
@@ -101,6 +92,7 @@ async function main() {
     }
 
     console.log(`Query: ${query}`);
+    console.log(`Source: ${sourceName}`);
     console.log(`Article: ${article.title}`);
     console.log(`URL: ${article.url}`);
     console.log(`Rows: ${specQuotes.length}`);
@@ -109,7 +101,7 @@ async function main() {
   }
 }
 
-async function findSogouArticle(page, query) {
+async function findSogouArticleWithRows(page, query, today) {
   await page.goto(`https://weixin.sogou.com/weixin?type=2&query=${encodeURIComponent(query)}`, {
     waitUntil: "domcontentloaded",
     timeout: 30000
@@ -124,35 +116,105 @@ async function findSogouArticle(page, query) {
           index,
           title: link?.textContent?.trim() || "",
           url: link?.href || "",
+          account:
+            item?.querySelector("a[uigs^='account_name_']")?.textContent?.trim() ||
+            item?.querySelector("[uigs^='account_name_']")?.textContent?.trim() ||
+            item?.querySelector(".account")?.textContent?.trim() ||
+            "",
           text: item?.innerText || ""
         };
       })
       .filter((item) => item.title && item.text)
   );
 
-  const today = todayInChina();
   const monthDay = monthDayFromDate(today);
   const currentYear = today.slice(0, 4);
-  const selected = candidates.find((item) => isTargetResult(item, monthDay, currentYear));
+  const errors = [];
 
-  if (!selected) {
-    throw new Error(`No article from ${SOURCE_NAME} matched today's query (${query}).`);
+  for (const candidate of candidates) {
+    const sourceName = detectSourceName(candidate);
+    if (!isTargetResult(candidate, monthDay, currentYear, today)) {
+      errors.push(`#${candidate.index + 1} ${candidate.title}: not today's Guangxi egg price result`);
+      continue;
+    }
+
+    const date = parseDate(candidate.text, currentYear);
+    if (date !== today) {
+      errors.push(`#${candidate.index + 1} ${candidate.title}: expected ${today}, got ${date || "no date"}`);
+      continue;
+    }
+
+    let specQuotes = parseStandardRows(candidate.text);
+    console.log(`Candidate #${candidate.index + 1} ${sourceName} snippet rows: ${specQuotes.length}`);
+
+    if (specQuotes.length < WEIGHT_ORDER.length) {
+      const articleText = await openArticleText(page, candidate, query);
+      const articleDate = parseDate(articleText, currentYear) || date;
+      if (articleDate !== today) {
+        errors.push(`#${candidate.index + 1} ${candidate.title}: article date ${articleDate || "no date"}`);
+        continue;
+      }
+
+      const articleRows = parseStandardRows(articleText);
+      console.log(`Candidate #${candidate.index + 1} ${sourceName} article rows: ${articleRows.length}`);
+      if (articleRows.length > specQuotes.length) {
+        specQuotes = articleRows;
+      }
+    }
+
+    try {
+      assertCompleteRows(specQuotes, candidate.title);
+      return { article: candidate, date, sourceName, specQuotes };
+    } catch (error) {
+      errors.push(`#${candidate.index + 1} ${candidate.title}: ${error.message}`);
+    }
   }
 
-  return selected;
+  throw new Error(`No usable article matched today's query (${query}). Checked ${candidates.length} results. ${errors.join(" | ")}`);
 }
 
-function isTargetResult(item, monthDay, currentYear) {
+function isTargetResult(item, monthDay, currentYear, today) {
   const text = normalizeText(item.text);
-  const wrongYear = text.match(new RegExp(`(20\\d{2})\\s*年\\s*${monthDay}`));
   return (
-    text.includes(SOURCE_NAME) &&
+    text.includes(TEXT.guangxi) &&
+    text.includes(TEXT.egg) &&
+    text.includes("\u4ef7\u683c") &&
     text.includes(monthDay) &&
-    (!wrongYear || wrongYear[1] === currentYear)
+    !hasWrongYearForMonthDay(text, monthDay, currentYear) &&
+    parseDate(text, currentYear) === today
   );
 }
 
-async function openArticleText(page, article) {
+function detectSourceName(item) {
+  const account = normalizeText(item.account);
+  if (account) {
+    return account;
+  }
+  const sourceLine = String(item.text || "")
+    .split(/\n+/)
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .at(-1);
+  const sourceFromLine = normalizeText(sourceLine)
+    .replace(/\d+\s*\u5c0f\u65f6\u524d.*$/, "")
+    .replace(/\d{4}\s*-\s*\d{1,2}\s*-\s*\d{1,2}.*$/, "")
+    .trim();
+  if (sourceFromLine && sourceFromLine.length <= 30 && !sourceFromLine.includes(" ")) {
+    return sourceFromLine;
+  }
+  const text = normalizeText(item.text);
+  if (text.includes(PRIMARY_SOURCE_NAME)) {
+    return PRIMARY_SOURCE_NAME;
+  }
+  return "\u641c\u72d7\u5fae\u4fe1\u6765\u6e90";
+}
+
+function hasWrongYearForMonthDay(text, monthDay, currentYear) {
+  const explicitYear = text.match(new RegExp(`(20\\d{2})\\s*\\u5e74\\s*${monthDay}`));
+  return Boolean(explicitYear && explicitYear[1] !== currentYear);
+}
+
+async function openArticleText(page, article, query) {
   const links = page.locator("a[uigs^='article_title_']");
   const link = links.nth(article.index);
   const popupPromise = page.waitForEvent("popup", { timeout: 12000 }).catch(() => null);
@@ -170,16 +232,24 @@ async function openArticleText(page, article) {
     .innerText({ timeout: 5000 })
     .catch(async () => htmlToText(html));
   article.url = articlePage.url() || article.url;
+  if (articlePage !== page) {
+    await articlePage.close().catch(() => {});
+  } else {
+    await page.goto(`https://weixin.sogou.com/weixin?type=2&query=${encodeURIComponent(query)}`, {
+      waitUntil: "domcontentloaded",
+      timeout: 30000
+    }).catch(() => {});
+  }
   return text;
 }
 
 function assertCompleteRows(rows, title) {
   const weights = rows.map((row) => row.weight);
-  const missing = WEIGHT_ORDER.filter((weight) => !weights.includes(weight));
+  const missing = REQUIRED_WEIGHT_ORDER.filter((weight) => !weights.includes(weight));
   const extra = weights.filter((weight) => !WEIGHT_ORDER.includes(weight));
-  if (rows.length !== WEIGHT_ORDER.length || missing.length > 0 || extra.length > 0) {
+  if (rows.length < REQUIRED_WEIGHT_ORDER.length || missing.length > 0 || extra.length > 0) {
     throw new Error(
-      `Incomplete quote rows for ${title}. Parsed ${rows.length}/${WEIGHT_ORDER.length}. Missing: ${
+      `Incomplete quote rows for ${title}. Parsed ${rows.length}/${REQUIRED_WEIGHT_ORDER.length}. Missing: ${
         missing.join(", ") || "none"
       }. Extra: ${extra.join(", ") || "none"}`
     );
@@ -191,6 +261,8 @@ function parseStandardRows(text) {
   const compactText = normalizeSplitDigits(normalizeText(text));
   const pattern =
     /(\u5927\u7801|\u4e2d\u7801|\u5c0f\u7801|\u521d\u4ea7)\s*(\d{2})\s*(?:[-\u2014\u2013~\u81f3\u5230]\s*(\d{2}))?\s*\u65a4\s*(\u4ee5\u4e0b)?\s*(\d{3})\s*(?:[-\u2014\u2013~\u81f3\u5230]\s*(\d{3}))\s*([\u2191\u2193+\-\u6da8\u8dcc\u5347\u964d\u7a330-9.%]*)/g;
+  const packageColumnPattern =
+    /(\d{2})\s*\u65a4\s*(\u4ee5\u4e0a|\u4ee5\u4e0b)?\s*(\d{3})\s+(\d{3})\s*([\u2191\u2193+\-\u6da8\u8dcc\u5347\u964d\u7a330-9.%]*)/g;
 
   for (const match of compactText.matchAll(pattern)) {
     const [, spec, firstWeight, secondWeight, below, min, max, trendRaw] = match;
@@ -207,7 +279,36 @@ function parseStandardRows(text) {
     });
   }
 
+  for (const match of compactText.matchAll(packageColumnPattern)) {
+    const [, firstWeight, direction, ordinaryPrice, premiumPrice, trendRaw] = match;
+    const weight = normalizeColumnWeight(firstWeight, direction);
+    if (!weight) {
+      continue;
+    }
+    rows.push({
+      spec: specForWeight(weight),
+      weight,
+      packagePriceMin: Number(ordinaryPrice),
+      packagePriceMax: Number(premiumPrice),
+      trend: normalizeTrend(trendRaw)
+    });
+  }
+
   return dedupeRows(rows);
+}
+
+function normalizeColumnWeight(firstWeight, direction) {
+  if (direction === "\u4ee5\u4e0b") {
+    return `${firstWeight}\u65a4\u4ee5\u4e0b`;
+  }
+  return normalizeSingleWeight(Number(firstWeight));
+}
+
+function specForWeight(weight) {
+  if (weight === "52-53\u65a4" || weight === "50-51\u65a4") return "\u5927\u7801";
+  if (weight === "48-49\u65a4" || weight === "46-47\u65a4" || weight === "44-45\u65a4") return "\u4e2d\u7801";
+  if (weight === "42-43\u65a4" || weight === "40-41\u65a4" || weight === "38-39\u65a4") return "\u5c0f\u7801";
+  return "\u521d\u4ea7";
 }
 
 function normalizeWeight(firstWeight, secondWeight, below) {
@@ -265,7 +366,7 @@ function weightIndex(weight) {
   return index === -1 ? WEIGHT_ORDER.length : index;
 }
 
-function buildReferenceRecords(date, specQuotes, fetchedAt) {
+function buildReferenceRecords(date, specQuotes, fetchedAt, sourceName) {
   const latest = midpoint(specQuotes[0].packagePriceMin, specQuotes[0].packagePriceMax);
   const base = [
     208, 207, 209, 211, 212, 214, 216, 217, 216, 218, 219, 220, 221, 219, 218, 217, 219, 220, 221, 222, 223,
@@ -285,7 +386,7 @@ function buildReferenceRecords(date, specQuotes, fetchedAt) {
       maxPrice: Number((avgPrice + 5).toFixed(2)),
       avgPrice,
       unit: "\u5143/\u7bb1",
-      sourceName: SOURCE_NAME,
+      sourceName,
       sourceUrl: specQuotes[0].sourceUrl,
       fetchedAt
     };
@@ -319,7 +420,7 @@ function normalizeSplitDigits(text) {
   return next;
 }
 
-function parseDate(text) {
+function parseDate(text, fallbackYear = String(new Date().getFullYear())) {
   const match =
     text.match(/(20\d{2})\s*\u5e74\s*(\d{1,2})\s*\u6708\s*(\d{1,2})\s*\u65e5/) ||
     text.match(/(\d{1,2})\s*\u6708\s*(\d{1,2})\s*\u65e5/);
@@ -329,7 +430,7 @@ function parseDate(text) {
   if (match.length === 4) {
     return `${match[1]}-${String(match[2]).padStart(2, "0")}-${String(match[3]).padStart(2, "0")}`;
   }
-  return `${new Date().getFullYear()}-${String(match[1]).padStart(2, "0")}-${String(match[2]).padStart(2, "0")}`;
+  return `${fallbackYear}-${String(match[1]).padStart(2, "0")}-${String(match[2]).padStart(2, "0")}`;
 }
 
 function searchQueryForDate(date) {

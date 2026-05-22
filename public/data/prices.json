@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T06:29:45.598Z",
+  "generatedAt": "2026-05-22T07:50:36.742Z",
   "preferredMarket": "公众号规格报价",
   "primarySourceName": "蛋通共赢",
   "packageSpec": "标准箱360枚装，皮重4.8-5.0斤，菜花黄精品蛋托，全新包装。",
@@ -7,7 +7,7 @@
   "sourceStatuses": [
     {
       "name": "蛋通共赢",
-      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
       "parsedRows": 10,
       "status": "parsed",
       "query": "5月22日广西鸡蛋价格",
@@ -26,8 +26,8 @@
       "avgPrice": 208,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-04-24",
@@ -39,8 +39,8 @@
       "avgPrice": 207,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-04-25",
@@ -52,8 +52,8 @@
       "avgPrice": 209,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-04-26",
@@ -65,8 +65,8 @@
       "avgPrice": 211,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-04-27",
@@ -78,8 +78,8 @@
       "avgPrice": 212,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-04-28",
@@ -91,8 +91,8 @@
       "avgPrice": 214,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-04-29",
@@ -104,8 +104,8 @@
       "avgPrice": 216,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-04-30",
@@ -117,8 +117,8 @@
       "avgPrice": 217,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-01",
@@ -130,8 +130,8 @@
       "avgPrice": 216,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-02",
@@ -143,8 +143,8 @@
       "avgPrice": 218,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-03",
@@ -156,8 +156,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-04",
@@ -169,8 +169,8 @@
       "avgPrice": 220,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-05",
@@ -182,8 +182,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-06",
@@ -195,8 +195,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-07",
@@ -208,8 +208,8 @@
       "avgPrice": 218,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-08",
@@ -221,8 +221,8 @@
       "avgPrice": 217,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-09",
@@ -234,8 +234,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-10",
@@ -247,8 +247,8 @@
       "avgPrice": 220,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-11",
@@ -260,8 +260,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-12",
@@ -273,8 +273,8 @@
       "avgPrice": 222,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-13",
@@ -286,8 +286,8 @@
       "avgPrice": 223,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-14",
@@ -299,8 +299,8 @@
       "avgPrice": 224,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-15",
@@ -312,8 +312,8 @@
       "avgPrice": 222,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-16",
@@ -325,8 +325,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-17",
@@ -338,8 +338,8 @@
       "avgPrice": 220,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-18",
@@ -351,8 +351,8 @@
       "avgPrice": 219,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-19",
@@ -364,8 +364,8 @@
       "avgPrice": 221,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-20",
@@ -377,8 +377,8 @@
       "avgPrice": 222,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-21",
@@ -390,8 +390,8 @@
       "avgPrice": 224,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "date": "2026-05-22",
@@ -403,8 +403,8 @@
       "avgPrice": 233,
       "unit": "元/箱",
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     }
   ],
   "specQuotes": [
@@ -421,8 +421,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "大码",
@@ -437,8 +437,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "中码",
@@ -453,8 +453,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "中码",
@@ -469,8 +469,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "中码",
@@ -485,8 +485,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "小码",
@@ -501,8 +501,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "小码",
@@ -517,8 +517,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "小码",
@@ -533,8 +533,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "初产",
@@ -549,8 +549,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "初产",
@@ -565,8 +565,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     }
   ],
   "primarySpecQuotes": [
@@ -583,8 +583,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "大码",
@@ -599,8 +599,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "中码",
@@ -615,8 +615,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "中码",
@@ -631,8 +631,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "中码",
@@ -647,8 +647,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "小码",
@@ -663,8 +663,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "小码",
@@ -679,8 +679,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "小码",
@@ -695,8 +695,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "初产",
@@ -711,8 +711,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     },
     {
       "spec": "初产",
@@ -727,8 +727,8 @@
       ],
       "isAverage": false,
       "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779431386&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHn2uy9Drwh6vRVXJUS4iXl1qqB5ALY3wdVMpDEs45nrrv-T6w6Un-G*NJE9RT4bDZ&new=1",
-      "fetchedAt": "2026-05-22T06:29:45.598Z"
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1779436238&ver=6735&signature=YKDPlqWhaT8wyCV8nMYiSfY114sAEs0lmNcKAILMe*C20LDepkM*1qu8QEI-D7zHGgkVsk1sKonx7mxLjY0mBiCcErT6ITKldIglWWZmieco3USu5r8a-PibLlJDVr6i&new=1",
+      "fetchedAt": "2026-05-22T07:50:36.742Z"
     }
   ]
 }

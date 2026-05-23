@@ -263,6 +263,8 @@ function parseStandardRows(text) {
     /(\u5927\u7801|\u4e2d\u7801|\u5c0f\u7801|\u521d\u4ea7)\s*(\d{2})\s*(?:[-\u2014\u2013~\u81f3\u5230]\s*(\d{2}))?\s*\u65a4\s*(\u4ee5\u4e0b)?\s*(\d{3})\s*(?:[-\u2014\u2013~\u81f3\u5230]\s*(\d{3}))\s*([\u2191\u2193+\-\u6da8\u8dcc\u5347\u964d\u7a330-9.%]*)/g;
   const packageColumnPattern =
     /(\d{2})\s*\u65a4\s*(\u4ee5\u4e0a|\u4ee5\u4e0b)?\s*(\d{3})\s+(\d{3})\s*([\u2191\u2193+\-\u6da8\u8dcc\u5347\u964d\u7a330-9.%]*)/g;
+  const bareIntervalPattern =
+    /(\d{2})\s*\u65a4\s*(\u4ee5\u4e0a|\u4ee5\u4e0b)?\s*(\d{3})\s*(?:[-\u2014\u2013~\u81f3\u5230]\s*(\d{3}))\s*([\u2191\u2193+\-\u6da8\u8dcc\u5347\u964d\u7a330-9.%]*)/g;
 
   for (const match of compactText.matchAll(pattern)) {
     const [, spec, firstWeight, secondWeight, below, min, max, trendRaw] = match;
@@ -294,11 +296,29 @@ function parseStandardRows(text) {
     });
   }
 
+  for (const match of compactText.matchAll(bareIntervalPattern)) {
+    const [, firstWeight, direction, min, max, trendRaw] = match;
+    const weight = normalizeColumnWeight(firstWeight, direction);
+    if (!weight) {
+      continue;
+    }
+    rows.push({
+      spec: specForWeight(weight),
+      weight,
+      packagePriceMin: Number(min),
+      packagePriceMax: Number(max),
+      trend: normalizeTrend(trendRaw)
+    });
+  }
+
   return dedupeRows(rows);
 }
 
 function normalizeColumnWeight(firstWeight, direction) {
   if (direction === "\u4ee5\u4e0b") {
+    if (Number(firstWeight) <= 34) {
+      return "33\u65a4\u4ee5\u4e0b";
+    }
     return `${firstWeight}\u65a4\u4ee5\u4e0b`;
   }
   return normalizeSingleWeight(Number(firstWeight));

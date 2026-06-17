@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-06-16T03:37:58.330Z",
+  "generatedAt": "2026-06-17T03:35:51.718Z",
   "preferredMarket": "公众号规格报价",
-  "primarySourceName": "卢超",
+  "primarySourceName": "鸡蛋报价早知道",
   "packageSpec": "标准箱360枚装，皮重4.8-5.0斤，菜花黄精品蛋托，全新包装。",
   "disclaimer": "报价仅供参考，不作为任何买卖的任何交易依据。",
   "sourceStatuses": [
     {
-      "name": "卢超",
-      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
+      "name": "鸡蛋报价早知道",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
       "parsedRows": 11,
       "status": "parsed",
-      "query": "6月16日广西鸡蛋价格",
-      "title": "(6月16日)鸡蛋价格最新报价",
+      "query": "6月17日广西鸡蛋价格",
+      "title": "涨:6月17日广西鸡蛋价格参考",
       "resultIndex": 1
     }
   ],
   "records": [
     {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -25,12 +25,12 @@
       "maxPrice": 213,
       "avgPrice": 208,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-19",
+      "date": "2026-05-20",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -38,12 +38,12 @@
       "maxPrice": 212,
       "avgPrice": 207,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -51,12 +51,12 @@
       "maxPrice": 214,
       "avgPrice": 209,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-21",
+      "date": "2026-05-22",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -64,12 +64,12 @@
       "maxPrice": 216,
       "avgPrice": 211,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -77,12 +77,12 @@
       "maxPrice": 217,
       "avgPrice": 212,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-23",
+      "date": "2026-05-24",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -90,38 +90,38 @@
       "maxPrice": 219,
       "avgPrice": 214,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
-    },
-    {
-      "date": "2026-05-24",
-      "province": "广西",
-      "marketName": "公众号规格报价",
-      "productName": "鸡蛋",
-      "minPrice": 211,
-      "maxPrice": 221,
-      "avgPrice": 216,
-      "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "date": "2026-05-25",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
+      "minPrice": 211,
+      "maxPrice": 221,
+      "avgPrice": 216,
+      "unit": "元/箱",
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
+    },
+    {
+      "date": "2026-05-26",
+      "province": "广西",
+      "marketName": "公众号规格报价",
+      "productName": "鸡蛋",
       "minPrice": 212,
       "maxPrice": 222,
       "avgPrice": 217,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -129,12 +129,12 @@
       "maxPrice": 221,
       "avgPrice": 216,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-27",
+      "date": "2026-05-28",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -142,12 +142,12 @@
       "maxPrice": 223,
       "avgPrice": 218,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -155,12 +155,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-29",
+      "date": "2026-05-30",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -168,12 +168,12 @@
       "maxPrice": 225,
       "avgPrice": 220,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-30",
+      "date": "2026-05-31",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -181,12 +181,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-05-31",
+      "date": "2026-06-01",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -194,12 +194,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -207,12 +207,12 @@
       "maxPrice": 223,
       "avgPrice": 218,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -220,12 +220,12 @@
       "maxPrice": 222,
       "avgPrice": 217,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -233,12 +233,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -246,12 +246,12 @@
       "maxPrice": 225,
       "avgPrice": 220,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-05",
+      "date": "2026-06-06",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -259,12 +259,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -272,12 +272,12 @@
       "maxPrice": 227,
       "avgPrice": 222,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -285,12 +285,12 @@
       "maxPrice": 228,
       "avgPrice": 223,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -298,12 +298,12 @@
       "maxPrice": 229,
       "avgPrice": 224,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -311,12 +311,12 @@
       "maxPrice": 227,
       "avgPrice": 222,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -324,12 +324,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -337,12 +337,12 @@
       "maxPrice": 225,
       "avgPrice": 220,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -350,12 +350,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -363,12 +363,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -376,12 +376,12 @@
       "maxPrice": 227,
       "avgPrice": 222,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -389,378 +389,378 @@
       "maxPrice": 229,
       "avgPrice": 224,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
-      "minPrice": 243,
-      "maxPrice": 253,
-      "avgPrice": 248,
+      "minPrice": 245,
+      "maxPrice": 255,
+      "avgPrice": 250,
       "unit": "元/箱",
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     }
   ],
   "specQuotes": [
     {
       "spec": "大码",
       "weight": "52-53斤",
-      "packagePriceMin": 243,
-      "packagePriceMax": 253,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 245,
+      "packagePriceMax": 255,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "大码",
       "weight": "50-51斤",
-      "packagePriceMin": 238,
-      "packagePriceMax": 248,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 240,
+      "packagePriceMax": 250,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "中码",
       "weight": "48-49斤",
-      "packagePriceMin": 233,
-      "packagePriceMax": 243,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 235,
+      "packagePriceMax": 245,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "中码",
       "weight": "46-47斤",
-      "packagePriceMin": 228,
-      "packagePriceMax": 238,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 230,
+      "packagePriceMax": 240,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "中码",
       "weight": "44-45斤",
-      "packagePriceMin": 223,
-      "packagePriceMax": 233,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 225,
+      "packagePriceMax": 235,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "小码",
       "weight": "42-43斤",
-      "packagePriceMin": 218,
-      "packagePriceMax": 228,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 220,
+      "packagePriceMax": 230,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "小码",
       "weight": "40-41斤",
-      "packagePriceMin": 212,
-      "packagePriceMax": 222,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 214,
+      "packagePriceMax": 224,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "小码",
       "weight": "38-39斤",
-      "packagePriceMin": 206,
-      "packagePriceMax": 216,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 208,
+      "packagePriceMax": 218,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "初产",
       "weight": "36-37斤",
-      "packagePriceMin": 200,
-      "packagePriceMax": 210,
-      "trend": "-5",
-      "date": "2026-06-16",
+      "packagePriceMin": 202,
+      "packagePriceMax": 212,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "初产",
       "weight": "33-35斤",
-      "packagePriceMin": 195,
-      "packagePriceMax": 205,
-      "trend": "-5",
-      "date": "2026-06-16",
+      "packagePriceMin": 196,
+      "packagePriceMax": 206,
+      "trend": "+1",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "初产",
       "weight": "33斤以下",
       "packagePriceMin": 190,
       "packagePriceMax": 200,
-      "trend": "-5",
-      "date": "2026-06-16",
+      "trend": "0.00%",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     }
   ],
   "primarySpecQuotes": [
     {
       "spec": "大码",
       "weight": "52-53斤",
-      "packagePriceMin": 243,
-      "packagePriceMax": 253,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 245,
+      "packagePriceMax": 255,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "大码",
       "weight": "50-51斤",
-      "packagePriceMin": 238,
-      "packagePriceMax": 248,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 240,
+      "packagePriceMax": 250,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "中码",
       "weight": "48-49斤",
-      "packagePriceMin": 233,
-      "packagePriceMax": 243,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 235,
+      "packagePriceMax": 245,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "中码",
       "weight": "46-47斤",
-      "packagePriceMin": 228,
-      "packagePriceMax": 238,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 230,
+      "packagePriceMax": 240,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "中码",
       "weight": "44-45斤",
-      "packagePriceMin": 223,
-      "packagePriceMax": 233,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 225,
+      "packagePriceMax": 235,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "小码",
       "weight": "42-43斤",
-      "packagePriceMin": 218,
-      "packagePriceMax": 228,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 220,
+      "packagePriceMax": 230,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "小码",
       "weight": "40-41斤",
-      "packagePriceMin": 212,
-      "packagePriceMax": 222,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 214,
+      "packagePriceMax": 224,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "小码",
       "weight": "38-39斤",
-      "packagePriceMin": 206,
-      "packagePriceMax": 216,
-      "trend": "-4",
-      "date": "2026-06-16",
+      "packagePriceMin": 208,
+      "packagePriceMax": 218,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "初产",
       "weight": "36-37斤",
-      "packagePriceMin": 200,
-      "packagePriceMax": 210,
-      "trend": "-5",
-      "date": "2026-06-16",
+      "packagePriceMin": 202,
+      "packagePriceMax": 212,
+      "trend": "+2",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "初产",
       "weight": "33-35斤",
-      "packagePriceMin": 195,
-      "packagePriceMax": 205,
-      "trend": "-5",
-      "date": "2026-06-16",
+      "packagePriceMin": 196,
+      "packagePriceMax": 206,
+      "trend": "+1",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     },
     {
       "spec": "初产",
       "weight": "33斤以下",
       "packagePriceMin": 190,
       "packagePriceMax": 200,
-      "trend": "-5",
-      "date": "2026-06-16",
+      "trend": "0.00%",
+      "date": "2026-06-17",
       "sourceCount": 1,
       "sourceNames": [
-        "卢超"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "卢超",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781581080&ver=6785&signature=lCpZcVOG93O8bG2OvA1HsyMEgQ7-jgIsXVbCCUPofeMQXjzjWVnoR6fbO2FERJUM0XAxOx*4CfhW9FRKaHFc2xSDE4xTi8bHeY-es1y97zVevy8bSNESm4iRQIEJA0Jg&new=1",
-      "fetchedAt": "2026-06-16T03:37:58.330Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1781667354&ver=6787&signature=LQqy8y6D2eUT6ea8muJMGS53yOf4HF5j3O905WZawzKjf-6YAJrvv8flEbId2Jm9-6xuxmS6t1EEYHL*nzcyo723H2HGktn4fHZIVmbeHzYvcbBYMs5pe265q9ZZQfFt&new=1",
+      "fetchedAt": "2026-06-17T03:35:51.718Z"
     }
   ]
 }

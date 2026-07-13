@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-12T02:13:52.514Z",
+  "generatedAt": "2026-07-13T02:15:28.740Z",
   "preferredMarket": "公众号规格报价",
-  "primarySourceName": "蛋通共赢",
+  "primarySourceName": "卢超",
   "packageSpec": "标准箱360枚装，皮重4.8-5.0斤，菜花黄精品蛋托，全新包装。",
   "disclaimer": "报价仅供参考，不作为任何买卖的任何交易依据。",
   "sourceStatuses": [
     {
-      "name": "蛋通共赢",
-      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "parsedRows": 10,
+      "name": "卢超",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "parsedRows": 11,
       "status": "parsed",
-      "query": "7月12日广西鸡蛋价格",
-      "title": "7月12日广西南宁鸡蛋价格参考:涨",
+      "query": "7月13日广西鸡蛋价格",
+      "title": "(7月13日)鸡蛋价格最新报价",
       "resultIndex": 1
     }
   ],
   "records": [
     {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -25,12 +25,12 @@
       "maxPrice": 213,
       "avgPrice": 208,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -38,12 +38,12 @@
       "maxPrice": 212,
       "avgPrice": 207,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -51,12 +51,12 @@
       "maxPrice": 214,
       "avgPrice": 209,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -64,12 +64,12 @@
       "maxPrice": 216,
       "avgPrice": 211,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -77,12 +77,12 @@
       "maxPrice": 217,
       "avgPrice": 212,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -90,38 +90,38 @@
       "maxPrice": 219,
       "avgPrice": 214,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
-    },
-    {
-      "date": "2026-06-19",
-      "province": "广西",
-      "marketName": "公众号规格报价",
-      "productName": "鸡蛋",
-      "minPrice": 211,
-      "maxPrice": 221,
-      "avgPrice": 216,
-      "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "date": "2026-06-20",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
+      "minPrice": 211,
+      "maxPrice": 221,
+      "avgPrice": 216,
+      "unit": "元/箱",
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
+    },
+    {
+      "date": "2026-06-21",
+      "province": "广西",
+      "marketName": "公众号规格报价",
+      "productName": "鸡蛋",
       "minPrice": 212,
       "maxPrice": 222,
       "avgPrice": 217,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -129,12 +129,12 @@
       "maxPrice": 221,
       "avgPrice": 216,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -142,12 +142,12 @@
       "maxPrice": 223,
       "avgPrice": 218,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -155,12 +155,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -168,12 +168,12 @@
       "maxPrice": 225,
       "avgPrice": 220,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-25",
+      "date": "2026-06-26",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -181,12 +181,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -194,12 +194,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -207,12 +207,12 @@
       "maxPrice": 223,
       "avgPrice": 218,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -220,12 +220,12 @@
       "maxPrice": 222,
       "avgPrice": 217,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -233,12 +233,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -246,12 +246,12 @@
       "maxPrice": 225,
       "avgPrice": 220,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -259,12 +259,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -272,12 +272,12 @@
       "maxPrice": 227,
       "avgPrice": 222,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -285,12 +285,12 @@
       "maxPrice": 228,
       "avgPrice": 223,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -298,12 +298,12 @@
       "maxPrice": 229,
       "avgPrice": 224,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -311,12 +311,12 @@
       "maxPrice": 227,
       "avgPrice": 222,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -324,12 +324,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -337,12 +337,12 @@
       "maxPrice": 225,
       "avgPrice": 220,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -350,12 +350,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -363,12 +363,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -376,12 +376,12 @@
       "maxPrice": 227,
       "avgPrice": 222,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -389,12 +389,12 @@
       "maxPrice": 229,
       "avgPrice": 224,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -402,9 +402,9 @@
       "maxPrice": 255,
       "avgPrice": 250,
       "unit": "元/箱",
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     }
   ],
   "specQuotes": [
@@ -413,160 +413,176 @@
       "weight": "52-53斤",
       "packagePriceMin": 245,
       "packagePriceMax": 255,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "trend": "+5",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "大码",
       "weight": "50-51斤",
-      "packagePriceMin": 241,
-      "packagePriceMax": 251,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 240,
+      "packagePriceMax": 250,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "中码",
       "weight": "48-49斤",
-      "packagePriceMin": 237,
-      "packagePriceMax": 247,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 235,
+      "packagePriceMax": 245,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "中码",
       "weight": "46-47斤",
-      "packagePriceMin": 233,
-      "packagePriceMax": 243,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 230,
+      "packagePriceMax": 240,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "中码",
       "weight": "44-45斤",
-      "packagePriceMin": 229,
-      "packagePriceMax": 239,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 225,
+      "packagePriceMax": 235,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "小码",
       "weight": "42-43斤",
       "packagePriceMin": 220,
       "packagePriceMax": 230,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "小码",
       "weight": "40-41斤",
-      "packagePriceMin": 216,
-      "packagePriceMax": 226,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 215,
+      "packagePriceMax": 225,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "小码",
       "weight": "38-39斤",
-      "packagePriceMin": 212,
-      "packagePriceMax": 222,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 210,
+      "packagePriceMax": 220,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "初产",
       "weight": "36-37斤",
-      "packagePriceMin": 208,
-      "packagePriceMax": 218,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 205,
+      "packagePriceMax": 215,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "初产",
       "weight": "33-35斤",
-      "packagePriceMin": 204,
-      "packagePriceMax": 214,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 200,
+      "packagePriceMax": 210,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
+    },
+    {
+      "spec": "初产",
+      "weight": "33斤以下",
+      "packagePriceMin": 195,
+      "packagePriceMax": 205,
+      "trend": "+4",
+      "date": "2026-07-13",
+      "sourceCount": 1,
+      "sourceNames": [
+        "卢超"
+      ],
+      "isAverage": false,
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     }
   ],
   "primarySpecQuotes": [
@@ -575,160 +591,176 @@
       "weight": "52-53斤",
       "packagePriceMin": 245,
       "packagePriceMax": 255,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "trend": "+5",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "大码",
       "weight": "50-51斤",
-      "packagePriceMin": 241,
-      "packagePriceMax": 251,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 240,
+      "packagePriceMax": 250,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "中码",
       "weight": "48-49斤",
-      "packagePriceMin": 237,
-      "packagePriceMax": 247,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 235,
+      "packagePriceMax": 245,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "中码",
       "weight": "46-47斤",
-      "packagePriceMin": 233,
-      "packagePriceMax": 243,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 230,
+      "packagePriceMax": 240,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "中码",
       "weight": "44-45斤",
-      "packagePriceMin": 229,
-      "packagePriceMax": 239,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 225,
+      "packagePriceMax": 235,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "小码",
       "weight": "42-43斤",
       "packagePriceMin": 220,
       "packagePriceMax": 230,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "小码",
       "weight": "40-41斤",
-      "packagePriceMin": 216,
-      "packagePriceMax": 226,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 215,
+      "packagePriceMax": 225,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "小码",
       "weight": "38-39斤",
-      "packagePriceMin": 212,
-      "packagePriceMax": 222,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 210,
+      "packagePriceMax": 220,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "初产",
       "weight": "36-37斤",
-      "packagePriceMin": 208,
-      "packagePriceMax": 218,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 205,
+      "packagePriceMax": 215,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     },
     {
       "spec": "初产",
       "weight": "33-35斤",
-      "packagePriceMin": 204,
-      "packagePriceMax": 214,
-      "trend": "+3",
-      "date": "2026-07-12",
+      "packagePriceMin": 200,
+      "packagePriceMax": 210,
+      "trend": "+4",
+      "date": "2026-07-13",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋通共赢"
+        "卢超"
       ],
       "isAverage": false,
-      "sourceName": "蛋通共赢",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783822434&ver=6837&signature=uwL4lWfkOV*5MfbO*syDj2m3oY-qZOJXkFV3aQBrK*5FN2b*RZGnEv5mv2RgzJYFpwwMJAuF1uDh1IDtA0m3KqG2r9auVGY0VdgnmJxasQ66JQGiMgmY3ayax60S8bZh&new=1",
-      "fetchedAt": "2026-07-12T02:13:52.514Z"
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
+    },
+    {
+      "spec": "初产",
+      "weight": "33斤以下",
+      "packagePriceMin": 195,
+      "packagePriceMax": 205,
+      "trend": "+4",
+      "date": "2026-07-13",
+      "sourceCount": 1,
+      "sourceNames": [
+        "卢超"
+      ],
+      "isAverage": false,
+      "sourceName": "卢超",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1783908930&ver=6839&signature=L8CTbSKv7AEAZrxYwBUwAH3RfbMw2W*rSLJfOnd6iuBDiAWeHmPoTGhJNOjEdFw5JHRbstpOr1QvEpDRqg5ec*WxlLppflYr5cLPFqvmxJ3wLPAhH7Oe8FIJArfxRKMu&new=1",
+      "fetchedAt": "2026-07-13T02:15:28.740Z"
     }
   ]
 }

@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-22T02:58:37.058Z",
+  "generatedAt": "2026-09-23T02:58:47.775Z",
   "preferredMarket": "公众号规格报价",
-  "primarySourceName": "蛋鲜生最新资讯",
+  "primarySourceName": "鸡蛋报价早知道",
   "packageSpec": "标准箱360枚装，皮重4.8-5.0斤，菜花黄精品蛋托，全新包装。",
   "disclaimer": "报价仅供参考，不作为任何买卖的任何交易依据。",
   "sourceStatuses": [
     {
-      "name": "蛋鲜生最新资讯",
-      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
+      "name": "鸡蛋报价早知道",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
       "parsedRows": 11,
       "status": "parsed",
-      "query": "9月22日广西鸡蛋价格",
-      "title": "9月22日广西鸡蛋市场价格参考:跌!",
+      "query": "9月23日广西鸡蛋价格",
+      "title": "跌:9月23日广西鸡蛋价格参考",
       "resultIndex": 1
     }
   ],
   "records": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -25,12 +25,12 @@
       "maxPrice": 213,
       "avgPrice": 208,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -38,12 +38,12 @@
       "maxPrice": 212,
       "avgPrice": 207,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -51,12 +51,12 @@
       "maxPrice": 214,
       "avgPrice": 209,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -64,12 +64,12 @@
       "maxPrice": 216,
       "avgPrice": 211,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -77,12 +77,12 @@
       "maxPrice": 217,
       "avgPrice": 212,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -90,38 +90,38 @@
       "maxPrice": 219,
       "avgPrice": 214,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
-    },
-    {
-      "date": "2026-08-30",
-      "province": "广西",
-      "marketName": "公众号规格报价",
-      "productName": "鸡蛋",
-      "minPrice": 211,
-      "maxPrice": 221,
-      "avgPrice": 216,
-      "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "date": "2026-08-31",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
+      "minPrice": 211,
+      "maxPrice": 221,
+      "avgPrice": 216,
+      "unit": "元/箱",
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
+    },
+    {
+      "date": "2026-09-01",
+      "province": "广西",
+      "marketName": "公众号规格报价",
+      "productName": "鸡蛋",
       "minPrice": 212,
       "maxPrice": 222,
       "avgPrice": 217,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -129,12 +129,12 @@
       "maxPrice": 221,
       "avgPrice": 216,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -142,12 +142,12 @@
       "maxPrice": 223,
       "avgPrice": 218,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -155,12 +155,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -168,12 +168,12 @@
       "maxPrice": 225,
       "avgPrice": 220,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -181,12 +181,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -194,12 +194,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -207,12 +207,12 @@
       "maxPrice": 223,
       "avgPrice": 218,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -220,12 +220,12 @@
       "maxPrice": 222,
       "avgPrice": 217,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -233,12 +233,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -246,12 +246,12 @@
       "maxPrice": 225,
       "avgPrice": 220,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -259,12 +259,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -272,12 +272,12 @@
       "maxPrice": 227,
       "avgPrice": 222,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -285,12 +285,12 @@
       "maxPrice": 228,
       "avgPrice": 223,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -298,12 +298,12 @@
       "maxPrice": 229,
       "avgPrice": 224,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -311,12 +311,12 @@
       "maxPrice": 227,
       "avgPrice": 222,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -324,12 +324,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -337,12 +337,12 @@
       "maxPrice": 225,
       "avgPrice": 220,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -350,12 +350,12 @@
       "maxPrice": 224,
       "avgPrice": 219,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -363,12 +363,12 @@
       "maxPrice": 226,
       "avgPrice": 221,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -376,12 +376,12 @@
       "maxPrice": 227,
       "avgPrice": 222,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
@@ -389,378 +389,378 @@
       "maxPrice": 229,
       "avgPrice": 224,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "province": "广西",
       "marketName": "公众号规格报价",
       "productName": "鸡蛋",
-      "minPrice": 260,
-      "maxPrice": 270,
-      "avgPrice": 265,
+      "minPrice": 248,
+      "maxPrice": 258,
+      "avgPrice": 253,
       "unit": "元/箱",
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     }
   ],
   "specQuotes": [
     {
       "spec": "大码",
       "weight": "52-53斤",
-      "packagePriceMin": 260,
-      "packagePriceMax": 270,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 248,
+      "packagePriceMax": 258,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "大码",
       "weight": "50-51斤",
-      "packagePriceMin": 255,
-      "packagePriceMax": 265,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 243,
+      "packagePriceMax": 253,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "中码",
       "weight": "48-49斤",
-      "packagePriceMin": 250,
-      "packagePriceMax": 260,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 239,
+      "packagePriceMax": 249,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "中码",
       "weight": "46-47斤",
-      "packagePriceMin": 246,
-      "packagePriceMax": 256,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 235,
+      "packagePriceMax": 245,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "中码",
       "weight": "44-45斤",
-      "packagePriceMin": 242,
-      "packagePriceMax": 252,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 231,
+      "packagePriceMax": 241,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "小码",
       "weight": "42-43斤",
-      "packagePriceMin": 238,
-      "packagePriceMax": 248,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 227,
+      "packagePriceMax": 237,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "小码",
       "weight": "40-41斤",
-      "packagePriceMin": 233,
-      "packagePriceMax": 243,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 222,
+      "packagePriceMax": 232,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "小码",
       "weight": "38-39斤",
-      "packagePriceMin": 227,
-      "packagePriceMax": 237,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 217,
+      "packagePriceMax": 227,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "初产",
       "weight": "36-37斤",
-      "packagePriceMin": 221,
-      "packagePriceMax": 234,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 211,
+      "packagePriceMax": 221,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "初产",
       "weight": "33-35斤",
-      "packagePriceMin": 215,
-      "packagePriceMax": 225,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 206,
+      "packagePriceMax": 216,
+      "trend": "-4",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "初产",
       "weight": "33斤以下",
-      "packagePriceMin": 209,
-      "packagePriceMax": 219,
+      "packagePriceMin": 201,
+      "packagePriceMax": 211,
       "trend": "-3",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     }
   ],
   "primarySpecQuotes": [
     {
       "spec": "大码",
       "weight": "52-53斤",
-      "packagePriceMin": 260,
-      "packagePriceMax": 270,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 248,
+      "packagePriceMax": 258,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "大码",
       "weight": "50-51斤",
-      "packagePriceMin": 255,
-      "packagePriceMax": 265,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 243,
+      "packagePriceMax": 253,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "中码",
       "weight": "48-49斤",
-      "packagePriceMin": 250,
-      "packagePriceMax": 260,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 239,
+      "packagePriceMax": 249,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "中码",
       "weight": "46-47斤",
-      "packagePriceMin": 246,
-      "packagePriceMax": 256,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 235,
+      "packagePriceMax": 245,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "中码",
       "weight": "44-45斤",
-      "packagePriceMin": 242,
-      "packagePriceMax": 252,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 231,
+      "packagePriceMax": 241,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "小码",
       "weight": "42-43斤",
-      "packagePriceMin": 238,
-      "packagePriceMax": 248,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 227,
+      "packagePriceMax": 237,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "小码",
       "weight": "40-41斤",
-      "packagePriceMin": 233,
-      "packagePriceMax": 243,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 222,
+      "packagePriceMax": 232,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "小码",
       "weight": "38-39斤",
-      "packagePriceMin": 227,
-      "packagePriceMax": 237,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 217,
+      "packagePriceMax": 227,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "初产",
       "weight": "36-37斤",
-      "packagePriceMin": 221,
-      "packagePriceMax": 234,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 211,
+      "packagePriceMax": 221,
+      "trend": "-5",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "初产",
       "weight": "33-35斤",
-      "packagePriceMin": 215,
-      "packagePriceMax": 225,
-      "trend": "-3",
-      "date": "2026-09-22",
+      "packagePriceMin": 206,
+      "packagePriceMax": 216,
+      "trend": "-4",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     },
     {
       "spec": "初产",
       "weight": "33斤以下",
-      "packagePriceMin": 209,
-      "packagePriceMax": 219,
+      "packagePriceMin": 201,
+      "packagePriceMax": 211,
       "trend": "-3",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "sourceCount": 1,
       "sourceNames": [
-        "蛋鲜生最新资讯"
+        "鸡蛋报价早知道"
       ],
       "isAverage": false,
-      "sourceName": "蛋鲜生最新资讯",
-      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790045921&ver=6981&signature=PfBGpGhkI2Kzq8cvyMxdkNz9wlc4wzZL3OL24OaDkSlZb5AmbRFUxyut9m3l2nDEpxLQqXGmKR-PszuAC5zyezUoQv1XDNPs7vHn4oJNYICmZ2SSnkV9PJIWVNfQvK17&new=1",
-      "fetchedAt": "2026-09-22T02:58:37.058Z"
+      "sourceName": "鸡蛋报价早知道",
+      "sourceUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1790132329&ver=6983&signature=YnvVlnQ*5WTHdPAL1KxHMs88xMUyCrcsNvmrRBPsyvzguOrpapZjLL*sZMZhnIX2nUx3DfANGSns9k7m2C0UM6OmGKCrxeqS8BdYwQxiC89L77c9ojX3WlKpqhzhIifT&new=1",
+      "fetchedAt": "2026-09-23T02:58:47.775Z"
     }
   ]
 }
